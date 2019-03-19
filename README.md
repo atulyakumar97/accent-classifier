@@ -16,11 +16,15 @@ Short term features of raw audio are extracted using the pyAudioAnalysis python 
 5 - Others [Afrikaans, Albanian, Armenian, Bulgarian etc]<br>
 6 - Spanish<br>
 <br>
+
 # Contributors<br>
 <br>
-[Atulya Kumar](https://github.com/atulyakumar97/)<br>
-[Sanjeet Krishna](https://github.com/Sanjeet19/)<br>
+
+[Atulya Kumar](https://github.com/atulyakumar97)<br>
+[Sanjeet Krishna](https://github.com/Sanjeet19) <br>
 <br>
+
 # License and copyright<br>
 <br>
-Licensed under the [MIT license](LICENSE)<br>
+
+Licensed under the [MIT license](LICENSE) <br>
